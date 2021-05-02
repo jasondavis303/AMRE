@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <Version>1.0.0.1</Version>
+    <Authors>Jason Davis</Authors>
+    <Company>jasondavis303</Company>
+    <Copyright>jasondavis303</Copyright>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageProjectUrl>https://github.com/jasondavis303/AMRE</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/jasondavis303/AMRE.git</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <Description>AsyncAutoResetEvent and AsyncManualResetEvent based on https://badflyer.com/asyncmanualresetevent/</Description>
+  </PropertyGroup>
+
+</Project>
