@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31205.134
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AMRE", "AMRE\AMRE.csproj", "{C67890A2-3A1A-40D3-8120-C6BB06C1AF9E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AMRE", "AMRE\AMRE.csproj", "{C67890A2-3A1A-40D3-8120-C6BB06C1AF9E}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{BD40D148-95CE-4C24-AB47-8F3DA31506E8}"
 	ProjectSection(SolutionItems) = preProject
@@ -17,6 +17,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "workflows", "workflows", "{
 		.github\workflows\release.yml = .github\workflows\release.yml
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AMRE.Tests", "AMRE.Tests\AMRE.Tests.csproj", "{FBC18160-EA7C-4545-B3DF-6B28D5839811}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{C67890A2-3A1A-40D3-8120-C6BB06C1AF9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C67890A2-3A1A-40D3-8120-C6BB06C1AF9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C67890A2-3A1A-40D3-8120-C6BB06C1AF9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBC18160-EA7C-4545-B3DF-6B28D5839811}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBC18160-EA7C-4545-B3DF-6B28D5839811}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBC18160-EA7C-4545-B3DF-6B28D5839811}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBC18160-EA7C-4545-B3DF-6B28D5839811}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
