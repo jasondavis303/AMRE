@@ -10,7 +10,7 @@
     <PackageProjectUrl>https://github.com/jasondavis303/AMRE</PackageProjectUrl>
     <RepositoryUrl>https://github.com/jasondavis303/AMRE.git</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
-    <Description>AsyncAutoResetEvent and AsyncManualResetEvent based on https://badflyer.com/asyncmanualresetevent/</Description>
+    <Description>WaitHandle extensions based on https://thomaslevesque.com/2015/06/04/async-and-cancellation-support-for-wait-handles/</Description>
   </PropertyGroup>
 
 </Project>
